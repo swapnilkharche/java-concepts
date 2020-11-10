@@ -36,8 +36,6 @@ public class StreamImpl {
         //order employee on level basis
         System.out.println("\nEmployees in ascending order of level");
         sortAscendingEmpLevel(list);
-
-
     }
 
     private static void sortAscendingEmpLevel(List<Employee> list) {
